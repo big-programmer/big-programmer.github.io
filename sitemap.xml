@@ -1,0 +1,44 @@
+<?xml-stylesheet type="text/xsl" href="https://big-programmer.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://big-programmer.github.io/post/welcome-to-my-site/</loc>
+    <lastmod>2020-02-18T19:39:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/about/</loc>
+    <lastmod>2020-02-18T19:39:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/</loc>
+    <lastmod>2020-02-18T19:39:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/post/</loc>
+    <lastmod>2020-02-18T19:39:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
