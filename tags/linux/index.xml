@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on 大橙员　- 分享程序员的世界</title>
+    <link>https://big-programmer.github.io/tags/linux/</link>
+    <description>Recent content in Linux on 大橙员　- 分享程序员的世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Feb 2020 11:31:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://big-programmer.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>大橙员说Linux工具01 - 开篇</title>
+      <link>https://big-programmer.github.io/post/tools-01-preface/</link>
+      <pubDate>Wed, 19 Feb 2020 11:31:31 +0800</pubDate>
+      
+      <guid>https://big-programmer.github.io/post/tools-01-preface/</guid>
+      <description>&lt;p&gt;本文是工具系列的开篇之作。工具系列将会主要介绍在Linux操作系统中的一些常用或好用的工具，如git、Markdown和思维导图等，让手头的活儿更有效率。其实，这些有许多工具是跨平台的，也就是也可以使用在 Windows和MacOS上。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

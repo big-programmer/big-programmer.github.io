@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vmware on 大橙员　- 分享程序员的世界</title>
+    <link>https://big-programmer.github.io/tags/vmware/</link>
+    <description>Recent content in Vmware on 大橙员　- 分享程序员的世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Feb 2020 15:17:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://big-programmer.github.io/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>大橙员说Linux工具02 - 在Windows中安装虚拟机软件Vmware</title>
+      <link>https://big-programmer.github.io/post/tools-02-win-vmware/</link>
+      <pubDate>Wed, 19 Feb 2020 15:17:33 +0800</pubDate>
+      
+      <guid>https://big-programmer.github.io/post/tools-02-win-vmware/</guid>
+      <description>&lt;p&gt;如果学习编程，虚拟机必不可少。大白话就是，在你的宿主机里（如 Win10 或 Ubuntu），再另外安装一个操作系统（如 Win10 或 Ubuntu），这样在里面学编程怎么都玩不坏宿主机，安全。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

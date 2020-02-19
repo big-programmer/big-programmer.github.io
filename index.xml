@@ -6,7 +6,7 @@
     <description>Recent content on 大橙员　- 分享程序员的世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Feb 2020 10:57:54 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 15:17:33 +0800</lastBuildDate>
     
         <atom:link href="https://big-programmer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,6 +23,102 @@
 &lt;p&gt;本站也没有太炫耀的网站功能，注重的还是文章的内容和质量。&lt;/p&gt;
 &lt;p&gt;如有什么问题和意见，大家可以留言或加我微信，谢谢！&lt;/p&gt;
 &lt;p&gt;关于更多的信息，可以看看这个： &lt;a href=&#34;https://big-programmer.github.io/about&#34;&gt;关于&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>大橙员说Linux工具02 - 在Windows中安装虚拟机软件Vmware</title>
+      <link>https://big-programmer.github.io/post/tools-02-win-vmware/</link>
+      <pubDate>Wed, 19 Feb 2020 15:17:33 +0800</pubDate>
+      
+      <guid>https://big-programmer.github.io/post/tools-02-win-vmware/</guid>
+      
+        <description>&lt;p&gt;如果学习编程，虚拟机必不可少。大白话就是，在你的宿主机里（如 Win10 或 Ubuntu），再另外安装一个操作系统（如 Win10 或 Ubuntu），这样在里面学编程怎么都玩不坏宿主机，安全。&lt;/p&gt;
+&lt;h2 id=&#34;目标&#34;&gt;目标&lt;/h2&gt;
+&lt;p&gt;我们平时都用习惯了 Windows，我们先基于这个目标来操作：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;宿主机：Windows 10&lt;/li&gt;
+&lt;li&gt;虚拟机：Ubuntu (一个 Linux 操作系统)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果你以后在虚拟机中玩惯了 Ubuntu，那你就可以反过来折腾这个目标：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;宿主机：Ubuntu&lt;/li&gt;
+&lt;li&gt;虚拟机：Windows 10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;下载vmware&#34;&gt;下载Vmware&lt;/h2&gt;
+&lt;p&gt;为了安装虚拟机，我们得在宿主机中先安装虚拟机软件。&lt;/p&gt;
+&lt;p&gt;常见的虚拟机软件有 Virtualbox、Vmware等。本人以前使用过 Virtualbox，但感觉经常卡机或崩溃，后来使用了 Vmware，体验不错，至使用至今。&lt;/p&gt;
+&lt;p&gt;请点击这里下载：&lt;a href=&#34;https://my.vmware.com/cn/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0&#34;&gt;Vmware&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vmware-download-win.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装vmware&#34;&gt;安装Vmware&lt;/h2&gt;
+&lt;p&gt;安装比较简单，我们只记录比较关键的地方：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;点击&lt;code&gt;VMware-workstation-full-15.5.1-15018445.exe&lt;/code&gt;启动安装&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;选择增强型功能&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vmeare-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;创建快捷方式&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vmeare-03.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;点击完成安装&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vmeare-04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;重启系统&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vmeare-05.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;体验vmware&#34;&gt;体验Vmware&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;重启系统后，我们点击桌面上的Vmware图标来启动程序&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vmeare-06.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;允许管理员特权&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vmeare-07.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最终的界面&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vmeare-08.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;由于版权问题，本站不会提供激活方法&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;至此，我们安装完了 Vmware。接下来才是重点，那就是在 Vmware 中如何安装 Linux 操作系统。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>大橙员说Linux工具01 - 开篇</title>
+      <link>https://big-programmer.github.io/post/tools-01-preface/</link>
+      <pubDate>Wed, 19 Feb 2020 11:31:31 +0800</pubDate>
+      
+      <guid>https://big-programmer.github.io/post/tools-01-preface/</guid>
+      
+        <description>&lt;p&gt;本文是工具系列的开篇之作。工具系列将会主要介绍在Linux操作系统中的一些常用或好用的工具，如git、Markdown和思维导图等，让手头的活儿更有效率。其实，这些有许多工具是跨平台的，也就是也可以使用在 Windows和MacOS上。&lt;/p&gt;
+&lt;p&gt;可能有些习惯使用 Windows 操作系统的同学一看到 Linux 就会觉得紧张，觉得都是黑客才会用的。其实在今天，Linux 操作系统（比如 Ubuntu）越来越多流行了，也可以像 Windows 一样用鼠标指指点点就可以完成任务哦。&lt;/p&gt;
+&lt;p&gt;有人建议，如果是搞开发的，最好从 Windows 转到 Linux上来。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;首先，Linux 是免费而且开源的，我们也可以安装像 Windows 常用的软件，包括网页浏览器、媒体播放器、图像编辑器和办公软件等，不再使用盗版。&lt;/li&gt;
+&lt;li&gt;其次，Linux 比其他系统能更好的防御恶意软件，强大到你都不需要运行杀毒软件。当今，绝大多数的服务器都是运行 Linux 操作系统的，这主要也是考虑它的安全性，当然也会考虑到其它优点，如稳定性好、免费、速度快等。&lt;/li&gt;
+&lt;li&gt;Linux 能给开发者带来极致的效率，这很关键。因为在 Linux下，使用命令行、管道和各种命令等，很便利地定位和解决问题，而在 Windows 下比较难找到这些工具。&lt;/li&gt;
+&lt;li&gt;Linux 可以让你知道更底层的东西，比如软件是怎么编译的。俗话说，学好 Linux，再搞其它东西，就很容易上手了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当然 Windows 的桌面系统比 Linux 的好得太多了，有些源生软件也不支持 Linux，比如微信等。我们也可以这样使用，主系统安装 Windows，然后在 Windows 安装 Linux 的虚拟机，反过来也可以。这样就可以兼顾两个系统的优点啦！这也是后面会介绍的文章之一。&lt;/p&gt;
+&lt;p&gt;本人也是 Linux 的菜鸟，还在不断地学习，这些文章就当且记录我的学习轨迹吧。&lt;/p&gt;
+&lt;p&gt;说了这么久，还是要看看效果，是不是？这里就先展示一个工具，如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;show-terminal.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;本系列会长期更新，请多多关注哦，谢谢！&lt;/p&gt;
+&lt;p&gt;未完，待续。。。&lt;/p&gt;</description>
       
     </item>
     

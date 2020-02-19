@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 大橙员　- 分享程序员的世界</title>
-    <link>https://big-programmer.github.io/post/</link>
-    <description>Recent content in Posts on 大橙员　- 分享程序员的世界</description>
+    <title>大橙员说Linux工具 on 大橙员　- 分享程序员的世界</title>
+    <link>https://big-programmer.github.io/categories/%E5%A4%A7%E6%A9%99%E5%91%98%E8%AF%B4linux%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 大橙员说Linux工具 on 大橙员　- 分享程序员的世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 19 Feb 2020 15:17:33 +0800</lastBuildDate>
     
-	<atom:link href="https://big-programmer.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://big-programmer.github.io/categories/%E5%A4%A7%E6%A9%99%E5%91%98%E8%AF%B4linux%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>欢迎光临 [大橙员]</title>
-      <link>https://big-programmer.github.io/post/welcome-to-my-site/</link>
-      <pubDate>Sun, 02 Feb 2020 17:21:53 +0800</pubDate>
-      
-      <guid>https://big-programmer.github.io/post/welcome-to-my-site/</guid>
-      <description>&lt;p&gt;小伙伴们，大家好！ 欢迎光临本站！今天（2020-02-02），在这个特殊的日子里，本站正式开放了。&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>大橙员说Linux工具02 - 在Windows中安装虚拟机软件Vmware</title>

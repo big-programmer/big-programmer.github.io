@@ -6,9 +6,19 @@
     <description>Recent content in Categories on 大橙员　- 分享程序员的世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Feb 2020 15:17:33 +0800</lastBuildDate>
     
 	<atom:link href="https://big-programmer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>大橙员说Linux工具</title>
+      <link>https://big-programmer.github.io/categories/%E5%A4%A7%E6%A9%99%E5%91%98%E8%AF%B4linux%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Wed, 19 Feb 2020 15:17:33 +0800</pubDate>
+      
+      <guid>https://big-programmer.github.io/categories/%E5%A4%A7%E6%A9%99%E5%91%98%E8%AF%B4linux%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

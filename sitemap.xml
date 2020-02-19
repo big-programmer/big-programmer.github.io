@@ -3,14 +3,77 @@
   
   <url>
     <loc>https://big-programmer.github.io/post/welcome-to-my-site/</loc>
-    <lastmod>2020-02-19T11:12:37+08:00</lastmod>
+    <lastmod>2020-02-18T17:21:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/categories/</loc>
+    <lastmod>2020-02-19T15:17:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/post/</loc>
+    <lastmod>2020-02-19T15:17:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/tags/</loc>
+    <lastmod>2020-02-19T15:17:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/tags/vmware/</loc>
+    <lastmod>2020-02-19T15:17:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://big-programmer.github.io/</loc>
-    <lastmod>2020-02-19T11:12:37+08:00</lastmod>
+    <lastmod>2020-02-19T15:17:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/categories/%E5%A4%A7%E6%A9%99%E5%91%98%E8%AF%B4linux%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2020-02-19T15:17:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/post/tools-02-win-vmware/</loc>
+    <lastmod>2020-02-19T15:17:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2020-02-19T15:17:33+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/tags/linux/</loc>
+    <lastmod>2020-02-19T11:31:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/post/tools-01-preface/</loc>
+    <lastmod>2020-02-19T11:31:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -25,25 +88,6 @@
   <url>
     <loc>https://big-programmer.github.io/about/</loc>
     <lastmod>2020-02-19T11:12:37+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://big-programmer.github.io/post/</loc>
-    <lastmod>2020-02-19T11:12:37+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://big-programmer.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://big-programmer.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
