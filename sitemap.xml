@@ -3,28 +3,35 @@
   
   <url>
     <loc>https://big-programmer.github.io/post/welcome-to-my-site/</loc>
-    <lastmod>2020-02-18T19:39:52+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://big-programmer.github.io/about/</loc>
-    <lastmod>2020-02-18T19:39:52+08:00</lastmod>
+    <lastmod>2020-02-19T11:12:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://big-programmer.github.io/</loc>
-    <lastmod>2020-02-18T19:39:52+08:00</lastmod>
+    <lastmod>2020-02-19T11:12:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/recommend/</loc>
+    <lastmod>2020-02-19T11:12:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://big-programmer.github.io/about/</loc>
+    <lastmod>2020-02-19T11:12:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://big-programmer.github.io/post/</loc>
-    <lastmod>2020-02-18T19:39:52+08:00</lastmod>
+    <lastmod>2020-02-19T11:12:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

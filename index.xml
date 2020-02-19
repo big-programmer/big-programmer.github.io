@@ -6,7 +6,7 @@
     <description>Recent content on 大橙员　- 分享程序员的世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Feb 2020 16:35:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 10:57:54 +0800</lastBuildDate>
     
         <atom:link href="https://big-programmer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,12 +21,26 @@
         <description>&lt;p&gt;小伙伴们，大家好！ 欢迎光临本站！今天（2020-02-02），在这个特殊的日子里，本站正式开放了。&lt;/p&gt;
 &lt;p&gt;我一直以来有做笔记的习惯，但比较零散（一会用onenote，一会用有道云，有时还会用思维导图）。为了更好方便大家和自己阅读资料，于是便创建了这个网站。&lt;/p&gt;
 &lt;p&gt;本站也没有太炫耀的网站功能，注重的还是文章的内容和质量。&lt;/p&gt;
-&lt;p&gt;如有什么问题和意见，大家可以留言或加我微信，谢谢！&lt;/p&gt;</description>
+&lt;p&gt;如有什么问题和意见，大家可以留言或加我微信，谢谢！&lt;/p&gt;
+&lt;p&gt;关于更多的信息，可以看看这个： &lt;a href=&#34;https://big-programmer.github.io/about&#34;&gt;关于&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>关于大橙员</title>
+      <title>推荐</title>
+      <link>https://big-programmer.github.io/recommend/</link>
+      <pubDate>Wed, 19 Feb 2020 10:57:54 +0800</pubDate>
+      
+      <guid>https://big-programmer.github.io/recommend/</guid>
+      
+        <description>&lt;p&gt;这个网页推荐一些常用的、好用的、特别的东西，会不断地进行更新，请随时留意哦^_^&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/big-programmer&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://translate.google.cn/&#34;&gt;google翻译&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>关于</title>
       <link>https://big-programmer.github.io/about/</link>
       <pubDate>Tue, 18 Feb 2020 16:35:25 +0800</pubDate>
       
@@ -93,7 +107,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;如扫码请备注：&lt;strong&gt;大橙员&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;../static/images/wetchat_jerry.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;wetchat_jerry.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;由于本人知识和能力有限，大家有任何问题和意见的，都可以留言或直接联系我，谢谢！&lt;/p&gt;
